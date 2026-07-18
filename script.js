@@ -612,5 +612,5 @@ document.querySelectorAll("img").forEach(img => {
 CONSOLE MESSAGE
 ==============================*/
 
-console.log("%cAutoSeat Pro Website Loaded Successfully 🚗",
+console.log("%cMANVI CAR SEAT COVER 🚗",
 "color:#ff1f1f;font-size:18px;font-weight:bold;");
