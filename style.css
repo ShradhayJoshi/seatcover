@@ -457,19 +457,7 @@ HERO
 ==============================*/
 
 .hero{
-
-height:100vh;
-
-position:relative;
-
-display:flex;
-
-align-items:center;
-
-overflow:hidden;
-
-background:url("../images/hero/hero-car.jpg") center center/cover no-repeat;
-
+    background:#111;
 }
 
 .hero-overlay{
